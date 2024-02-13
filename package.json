@@ -1,0 +1,16 @@
+{
+  "name": "com.geminitaurus.gemlib",
+  "version": "0.0.1",
+  "displayName": "GemLib",
+  "description": "a Collection of Tools for Unity",
+  "unity": "2022.3",
+  "author": {
+    "name": "GeminiTaurus",
+    "email": "geminitaurus.pro@gmail.com",
+    "url": "https://geminitaurus.myportfolio.com/work"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": ""
+  },
+  "hideInEditor": false
+}
